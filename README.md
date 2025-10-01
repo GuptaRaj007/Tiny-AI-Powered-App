@@ -35,6 +35,12 @@ pytesseract OCR for images
 
 Ask multi-turn questions about uploaded documents — follow-up supported.
 
+**## 🌐 Live Demo
+**
+Try the Tiny AI App live here: (https://tiny-ai-powered-app.streamlit.app/)
+
+All features, including follow-up Q&A and document upload with OCR, are fully functional online.
+
 ⚙️ Setup Instructions
 1. Clone the Repository
 git clone (https://github.com/GuptaRaj007/Tiny-AI-Powered-App.git)
@@ -78,4 +84,5 @@ Add semantic search with LangChain embeddings for large documents.
 Enhance Expense Tracker with monthly reports and charts.
 
 Deploy a more polished ChatGPT-like UI with Streamlit Components.
+
 
