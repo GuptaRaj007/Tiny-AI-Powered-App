@@ -37,7 +37,7 @@ Ask multi-turn questions about uploaded documents — follow-up supported.
 
 ⚙️ Setup Instructions
 1. Clone the Repository
-git clone https://github.com/your-username/tiny-ai-app.git
+git clone (https://github.com/GuptaRaj007/Tiny-AI-Powered-App.git)
 cd tiny-ai-app
 
 2. Install Python & Dependencies
@@ -78,3 +78,4 @@ Add semantic search with LangChain embeddings for large documents.
 Enhance Expense Tracker with monthly reports and charts.
 
 Deploy a more polished ChatGPT-like UI with Streamlit Components.
+
