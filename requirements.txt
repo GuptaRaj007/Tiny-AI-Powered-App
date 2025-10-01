@@ -1,0 +1,7 @@
+streamlit
+groq
+matplotlib
+python-dotenv
+pytesseract
+pillow
+langchain-community
